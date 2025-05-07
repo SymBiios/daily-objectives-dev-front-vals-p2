@@ -13,7 +13,7 @@
 - [x] Comprendre le fonctionnement des fonctions en JavaScript
   - [x] Fonctions Déclarations (https://fr.javascript.info/function-basics)
   - [x] Fonctions Expressions (https://fr.javascript.info/function-expressions)
-  - [x] Fonctions Fléchées (https://fr.javascript.info/arrow-functions-basics)
+  - [ ] Fonctions Fléchées (https://fr.javascript.info/arrow-functions-basics)
 
 #### Exercices :
 - [x] Faire tous les exercices des chapitres `2.4` à `2.17`
